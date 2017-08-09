@@ -357,6 +357,14 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "contacts1-v",
           "_params": {
             "paddingTop": 3,
@@ -392,16 +400,8 @@
             }
           },
           "text1": "<p><strong>ADDRESS</strong><br>Россия<br>Мурманск&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail#1: severkom@inbox.ru<br>\nEmail#2: etc0051@gmail.com<br>Phone: +7 921 049 01 51<br><br>",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">Website builder</a></li><li><br></li></ul>",
-          "_styles": {
-            "STRONG": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          }
+          "text2": "<strong>CONTACTS</strong><br>\nEmail#1: severkom@inbox.ru<br>\nEmail#2: etc0051@gmail.com<br>Phone#1: +7 921 278 62 96<br>Phone#2: +7 921 049 01 51<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">Website builder</a></li><li><br></li></ul>"
         }
       ]
     },
