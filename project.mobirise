@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 32,
+    "uniqCompNum": 37,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo1-128x76.png",
     "noImageResize": ""
@@ -17,7 +17,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Аренда техники, негабаритные перевозки",
+        "title": "СЕВЕРНАЯ КОМПАНИЯ - Аренда техники, негабаритные перевозки",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
