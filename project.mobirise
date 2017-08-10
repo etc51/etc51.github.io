@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-08-06_2057",
-    "currentPage": "index.html",
+    "currentPage": "negabarit.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -902,9 +902,9 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-15",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "imageSize": "60",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/20160826-2000x1125.jpg",
